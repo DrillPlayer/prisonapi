@@ -1,0 +1,9 @@
+name: PrisonAPI
+version: 1.0
+main: main.Main
+
+commands:
+  test:
+    description: "Test"
+    usage: /<command>
+    permission: test.test
